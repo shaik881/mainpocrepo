@@ -1,0 +1,14 @@
+C:\Users\Shaik Saquib\source\repos\WS-Client\bin\Debug\net8.0\WS-Client.exe
+C:\Users\Shaik Saquib\source\repos\WS-Client\bin\Debug\net8.0\WS-Client.deps.json
+C:\Users\Shaik Saquib\source\repos\WS-Client\bin\Debug\net8.0\WS-Client.runtimeconfig.json
+C:\Users\Shaik Saquib\source\repos\WS-Client\bin\Debug\net8.0\WS-Client.dll
+C:\Users\Shaik Saquib\source\repos\WS-Client\bin\Debug\net8.0\WS-Client.pdb
+C:\Users\Shaik Saquib\source\repos\WS-Client\obj\Debug\net8.0\WS-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaik Saquib\source\repos\WS-Client\obj\Debug\net8.0\WS-Client.AssemblyInfoInputs.cache
+C:\Users\Shaik Saquib\source\repos\WS-Client\obj\Debug\net8.0\WS-Client.AssemblyInfo.cs
+C:\Users\Shaik Saquib\source\repos\WS-Client\obj\Debug\net8.0\WS-Client.csproj.CoreCompileInputs.cache
+C:\Users\Shaik Saquib\source\repos\WS-Client\obj\Debug\net8.0\WS-Client.dll
+C:\Users\Shaik Saquib\source\repos\WS-Client\obj\Debug\net8.0\refint\WS-Client.dll
+C:\Users\Shaik Saquib\source\repos\WS-Client\obj\Debug\net8.0\WS-Client.pdb
+C:\Users\Shaik Saquib\source\repos\WS-Client\obj\Debug\net8.0\WS-Client.genruntimeconfig.cache
+C:\Users\Shaik Saquib\source\repos\WS-Client\obj\Debug\net8.0\ref\WS-Client.dll
